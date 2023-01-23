@@ -17,3 +17,8 @@ streamlit run Grad_cam.py
 ## Special Thanks
 
 This tool is based on [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) by [Jacob Gildenblat](https://github.com/jacobgil)
+
+## Nota bene
+
+Currently streamlit do not work with python 3.9.7
+

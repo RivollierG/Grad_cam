@@ -53,7 +53,7 @@ scipy==1.10.0
 semver==2.13.0
 six==1.16.0
 smmap==5.0.0
-streamlit==1.17.0
+streamlit
 threadpoolctl==3.1.0
 tifffile==2022.10.10
 toml==0.10.2
