@@ -20,5 +20,5 @@ This tool is based on [pytorch-grad-cam](https://github.com/jacobgil/pytorch-gra
 
 ## Nota bene
 
-Currently streamlit do not work with python 3.9.7
+Currently streamlit does not work with python 3.9.7
 
